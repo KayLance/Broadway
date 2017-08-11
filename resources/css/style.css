@@ -41,3 +41,10 @@ p {
   .body {
     text-align: center;
   }
+
+  .miniheader {
+    background-image: url(/Users/klance/Desktop/Broadway/resources/images/the-flatiron-building.png);
+    text-align: center;
+    color:white;
+    
+  }
